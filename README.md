@@ -212,6 +212,3 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 
 
-- **Discord**: [Join our community to learn and grow together](https://discord.gg/36h5f2Z5PK)
-
-Thank you for your support, and I look forward to connecting with you!
